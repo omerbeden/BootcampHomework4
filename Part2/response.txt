@@ -1,0 +1,7 @@
+
+0	 16.02.2021 21:49:30	 /weatherforecast	 404
+1	 16.02.2021 21:49:57	 /api/categories	 200
+2	 16.02.2021 21:50:11	 /api/categories	 200
+3	 16.02.2021 21:50:13	 /api/categories	 200
+4	 16.02.2021 21:50:17	 /api/wsds	 404
+5	 16.02.2021 21:50:53	 /weatherforecast	 404
